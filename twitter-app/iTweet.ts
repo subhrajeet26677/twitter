@@ -1,0 +1,5 @@
+
+
+export interface iTweet {
+    postTweet();
+}
